@@ -1,0 +1,1 @@
+insert into buku (id, nama_buku, isbn) values ("b_01", "Buku Cerita Kancil", "0129309213");
